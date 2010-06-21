@@ -9,9 +9,13 @@ When this plugin executes it sends out an email, waits a few seconds then goes l
 ### Requirements
 
 Ruby
+
 Nagios (Tested with Nagios3 on Debian Lenny)
+
 NRPE
+
 Currently: mailx to send out emails (easily replaced)
+
 A remote mailbox on an IMAP compatible server (easily replaced)
 
 ### License
@@ -21,5 +25,7 @@ Released under the MIT License
 ### Credits
 
 Written by [Warwick Poole](http://warwickp.com) (wpoole@gmail.com)
+
 Copyright by and funded by [Harvest](http://www.getharvest.com)
+
 Nagios by Ethan Galstad
